@@ -17,6 +17,9 @@ h6 {
   .section-heading {
     font-size: 40px !important;
   }
+  .vertical-center {
+   font-size: 10px;
+}
 }
 html {
   scroll-behavior: smooth;
